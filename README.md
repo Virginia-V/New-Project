@@ -1,3 +1,3 @@
 # New-Project
 
-Girls go IT
+Girls go IT plus
